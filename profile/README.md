@@ -4,4 +4,4 @@ Myst-Laboratories is a creative innovation studio dedicated to learning, experim
 
 ## LinkedIn
 
-[[https://www.linkedin.com/company/myst-laboratories/about/]
+https://www.linkedin.com/company/myst-laboratories/posts/?feedView=all
